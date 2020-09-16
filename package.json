@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "deploy": "gh-pages -d"
+    "deploy": "gh-pages -d Site"
   },
   "repository": {
     "type": "git",
